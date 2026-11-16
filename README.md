@@ -21,6 +21,10 @@ Try it in your browser, no install: the [Explorer](https://imgui-bundle.pages.de
 
 I co-founded Interactif Visuel Système (IVS) in 1996 and led its R&D until 2021. We built measuring devices for opticians: Activisu, and Visioffice for Essilor. Image processing, computer vision, biometrics, hardware. The company grew from 3 people to about 100, and was acquired by Essilor.
 
+**Support my work**
+
+If my tools are useful to you or to your team, you can [sponsor their maintenance](https://github.com/sponsors/pthom). Thanks a lot!
+
 **Work with me**
 
 Open to missions: GUIs for research tools, Dear ImGui in your C++ or Python code, Python bindings for your C++ libraries, image processing. Email me.
