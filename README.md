@@ -4,7 +4,7 @@ I build tools that make code readable and science easy to play with.
 
 **[Dear ImGui Bundle](https://github.com/pthom/imgui_bundle)**: Python and C++ GUIs for desktop, web and phones, built on Dear ImGui.
 
-![PyPI downloads](https://img.shields.io/pypi/dm/imgui-bundle)
+![PyPI downloads](https://img.shields.io/pepy/dt/imgui-bundle) ![PyPI downloads per month](https://img.shields.io/pypi/dm/imgui-bundle)
 
 Used in research, robotics and 3D: [Genesis](https://github.com/Genesis-Embodied-AI/genesis-world), [Isaac Lab](https://github.com/isaac-sim/IsaacLab), [Newton](https://github.com/newton-physics/newton), [pygfx](https://github.com/pygfx/pygfx), [fastplotlib](https://github.com/fastplotlib/fastplotlib), [DIPY](https://github.com/dipy/dipy), [splatviz](https://github.com/Florian-Barthel/splatviz), and more than 300 other projects.
 
